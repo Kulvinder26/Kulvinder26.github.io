@@ -4,3 +4,4 @@ name: Kulvinder Singh
 markdown: kramdown
 
 permalink: /blog/:year/:month/:day/:title
+permalink: /about/
