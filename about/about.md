@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: About
 description: What I am and what I do.
 ---
