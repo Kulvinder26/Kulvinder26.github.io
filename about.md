@@ -21,8 +21,8 @@ ease for business for taking decisions based on data rapidly.
 Second is an online platform where business can access daily updated frequently used reports.
 So yeah, I am having my fair share of startup experience, and the usual get sh*t done attitude that comes with it.
 
-Apart from this, I also spend time on taking part in #####Kaggle competitions##### and building my knowledge about building better predictive models and understanding the data better.
-I have been in ####TOP 5%#### of ####Advanced Regression with House Prices Kaggle Competition####.
+Apart from this, I also spend time on taking part in ##### Kaggle competitions ##### and building my knowledge about building better predictive models and understanding the data better.
+I have been in #### TOP 5% #### of #### Advanced Regression with House Prices Kaggle Competition ####.
 
 
 
