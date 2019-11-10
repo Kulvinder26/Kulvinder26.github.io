@@ -14,11 +14,17 @@ Hi, I'm Kulvinder.
 
 I hail from Uttar Pradesh, India. Though, I have spent a couple of the past few years in Punjab, India where I completed a Bachelor of  Technology degree from Lovely Professional University, India's largest private university.
 
-I currently live in Noida, working as a Data Analyst/ Backend Developer at Moglix Pvt. Ltd. 
-I use statistics and machine learning to solve our customer's analytics problems, and incorporating predictive models in Unscrambl's flagship product, *Drive*. Being a jack of all trades, I also build front-end applications, dashboards and visualisations to help our customers interact with our data products. You do need good storytelling for good data. ;)
-
-
+I currently live in Noida, working as a Data Analyst/ Backend Developer at Moglix Pvt. Ltd. and I use software development and data analysis to solve our bussiness's analytics problems, and filling the gap between decision makers and the data*Drive*.
+I have worked on two major projects which are still progressing as  per the need of bussiness.
+First is self serve data extraction system for interactively accessing data related to different KPIs online, creating
+ease for business for taking decisions based on data rapidly.
+Second is an online platform where business can access daily updated frequently used reports.
 So yeah, I am having my fair share of startup experience, and the usual get sh*t done attitude that comes with it.
+
+Apart from this, I also spend time on taking part in #####Kaggle competitions##### and building my knowledge about building better predictive models and understanding the data better.
+I have been in ####TOP 5%#### of ####Advanced Regression with House Prices Kaggle Competition####.
+
+
 
 I'm also <em>really</em> into music, creative writing, reading and travelling. 
 
@@ -28,13 +34,11 @@ I'm also <em>really</em> into music, creative writing, reading and travelling.
 
 As a result of my perpetual curiosity, I have practical experience with a wide range of technologies including:
 
-Python • R • Ruby • Java • Javascript • AngularJS • HTML • CSS • Bootstrap • NodeJS • Jquery • MySQL • MongoDB • Scikit-Learn • NLTK • Pandas • Numpy
+Python • Scikit-Learn • Pandas • Numpy • Keras • Tensorflow • NLTK • SQL • OpenCV • Matplotlib 
 
 for use with concepts such as:
 
-Machine Learning Algorithms, Data Analytics, Statistical Data Analysis, Natural Language Processing, Data Visualization, Database Systems & Information Modelling • Software Engineering • Web Application Development, <em>and more!</em>
-
-Thankfully, I'm not a cat.
+Machine Learning, Data Analytics, Natural Language Processing, Data Visualization, Software Engineering , <em>and more!</em>
 
 ### Certificates I've completed:
 
