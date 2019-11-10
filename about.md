@@ -39,28 +39,28 @@ I'm also <em>really</em> into music, creative writing, reading and travelling.
 
 As a result of my perpetual curiosity, I have practical experience with a wide range of technologies including:
 
-•Python 
-• Scikit-Learn 
-• Pandas 
-• Numpy 
-• Keras 
-• Tensorflow 
-• NLTK 
-• SQL 
-• OpenCV 
-• Matplotlib 
-• Apache Spark
-• Apache Flume
-• Apache Hive
-• Apache Hadoop
+* Python 
+* Scikit-Learn 
+* Pandas 
+* Numpy 
+* Keras 
+* Tensorflow 
+* NLTK 
+* SQL 
+* OpenCV 
+* Matplotlib 
+* Apache Spark
+* Apache Flume
+* Apache Hive
+* Apache Hadoop
 
 for use with concepts such as:
 
-• Machine Learning
-• Data Science
-• NLP
-• Software Engineering
-• Big Data and more!
+* Machine Learning
+* Data Science
+* NLP
+* Software Engineering
+* Big Data and more!
 
 ### Certificates I've completed:
 
