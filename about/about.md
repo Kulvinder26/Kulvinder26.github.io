@@ -10,17 +10,17 @@ description: What I am and what I do.
 
 ### Me
 
-Hi, I'm Sajal.
+Hi, I'm Kulvinder.
 
-I hail from New Delhi, India. Though, I have spent a couple of the past few years in Melbourne, Australia where I completed a Master of Information Technology degree from The University of Melbourne, Australia's most prestigious university.
+I hail from Uttar Pradesh, India. Though, I have spent a couple of the past few years in Punjab, India where I completed a Bachelor of  Technology degree from Lovely Professional University, India's largest private university.
 
-I currently live in Pune, working as a Data Scientist at Unscrambl, Inc. We're a kick-ass startup where each of us give it our best to bring real-time, streaming, intelligent analytics to different verticals including telecommunications, healthcare, and banking. I use statistics and machine learning to solve our customer's analytics problems, and incorporating predictive models in Unscrambl's flagship product, *Drive*. Being a jack of all trades, I also build front-end applications, dashboards and visualisations to help our customers interact with our data products. You do need good storytelling for good data. ;)
+I currently live in Noida, working as a Data Analyst/ Backend Developer at Moglix Pvt. Ltd. 
+I use statistics and machine learning to solve our customer's analytics problems, and incorporating predictive models in Unscrambl's flagship product, *Drive*. Being a jack of all trades, I also build front-end applications, dashboards and visualisations to help our customers interact with our data products. You do need good storytelling for good data. ;)
 
-In the past I've worked as a Technical Lead in a service oriented startup, <em>Energy Umpire</em> based in Melbourne, Victoria.
 
-So yeah, I have my fair share of startup experience, and the usual get sh*t done attitude that comes with it.
+So yeah, I am having my fair share of startup experience, and the usual get sh*t done attitude that comes with it.
 
-I'm also <em>really</em> into indie rock, creative writing, travelling, and caffeine. I cycle between other hobbies as well, with the change of seasons.
+I'm also <em>really</em> into music, creative writing, reading and travelling. 
 
 <hr>
 
@@ -48,11 +48,11 @@ To feed my hunger for learning, I take online courses for different Data Science
 * Python Data Science and Machine Learning Bootcamp - Udemy
 * React Nanodegree - Udacity (Currently fighting deadlines)
 
-Check out my [portfolio](/portfolio) to see iPython notebooks and Github repos for some of the projects I've worked on.
 
 And that's about it! Feel free to connect on [LinkedIn](https://www.linkedin.com/in/sajals) or get in touch if you want to discuss opportunities, collaboration, consulting or have a heated debate about the best coffee in India. I'm always happy to chat!
 
-You can find a contact form on the homepage, or send an email directly to <a href="mailto:contact@sajalsharma.com">contact@sajalsharma.com</a>.
+You can find a contact form on the homepage, or send an email directly to <a href="mailto:kulvindersingh97@gmail.com">kulvindersingh97@gmail.com</a>.
 
 
 Thanks for reading!
+
