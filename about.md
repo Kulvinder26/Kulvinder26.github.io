@@ -21,8 +21,13 @@ ease for business for taking decisions based on data rapidly.
 Second is an online platform where business can access daily updated frequently used reports.
 So yeah, I am having my fair share of startup experience, and the usual get sh*t done attitude that comes with it.
 
-Apart from this, I also spend time on taking part in ##### Kaggle competitions ##### and building my knowledge about building better predictive models and understanding the data better.
-I have been in #### TOP 5% #### of #### Advanced Regression with House Prices Kaggle Competition ####.
+Apart from this, I also spend time on taking part in 
+#### Kaggle competitions 
+and building my knowledge about building better predictive models and understanding the data better.
+I have been in
+##### TOP 5%  
+of 
+##### Advanced Regression with House Prices Kaggle Competition .
 
 
 
@@ -34,26 +39,42 @@ I'm also <em>really</em> into music, creative writing, reading and travelling.
 
 As a result of my perpetual curiosity, I have practical experience with a wide range of technologies including:
 
-Python • Scikit-Learn • Pandas • Numpy • Keras • Tensorflow • NLTK • SQL • OpenCV • Matplotlib 
+•Python 
+• Scikit-Learn 
+• Pandas 
+• Numpy 
+• Keras 
+• Tensorflow 
+• NLTK 
+• SQL 
+• OpenCV 
+• Matplotlib 
+• Apache Spark
+• Apache Flume
+• Apache Hive
+• Apache Hadoop
 
 for use with concepts such as:
 
-Machine Learning, Data Analytics, Natural Language Processing, Data Visualization, Software Engineering , <em>and more!</em>
+• Machine Learning
+• Data Science
+• NLP
+• Software Engineering
+• Big Data and more!
 
 ### Certificates I've completed:
 
 To feed my hunger for learning, I take online courses for different Data Science topics and work independently on projects in my free time. Some of them include:
 
-* Machine Learning Engineer Nanodegree - by Kaggle and Google - Udacity
-* Statistics Specialization: Introduction to Probability and Data - by Duke University - Coursera
-* Statistics Specialization: Inferential Statistics - by Duke University - Coursera
-* Big Data Foundations, including Hadoop and Spark - by IBM - Big Data University
-* Data Science and Machine Learning with R - Udemy
-* Python Data Science and Machine Learning Bootcamp - Udemy
-* React Nanodegree - Udacity (Currently fighting deadlines)
+* Machine Learning (taught by Andrew Ng) - by Stanford University - Coursera
+* Neural Networks and Deep Learning (taught by Andrew Ng) - by Deeplearning.ai - Coursera
+* Improving Deep Neural Networks:Hyperparameter tuning, Regularization
+and Optimization (taught by Andrew Ng) - by Deeplearning.ai - Coursera
+* Convolutional Neural Networks (taught by Andrew Ng) - by Deeplearning.ai - Coursera
+* Structuring Machine Learning Projects (taught by Andrew Ng) - by Deeplearning.ai - Coursera
+* Machine Learning Fundamentals - by Datacamp
 
-
-And that's about it! Feel free to connect on [LinkedIn](https://www.linkedin.com/in/sajals) or get in touch if you want to discuss opportunities, collaboration, consulting or have a heated debate about the best coffee in India. I'm always happy to chat!
+And that's about it! Feel free to connect on [LinkedIn](https://www.linkedin.com/in/kulvinder-singh-821261128) or get in touch if you want to discuss anything about Machine Learning or apart from it, I'm always happy to chat!
 
 You can find a contact form on the homepage, or send an email directly to <a href="mailto:kulvindersingh97@gmail.com">kulvindersingh97@gmail.com</a>.
 
