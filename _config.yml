@@ -3,5 +3,5 @@ title: Welcome to Kulvinder's Hompage!
 name: Kulvinder Singh
 markdown: kramdown
 
-permalink: /blog/:year/:month/:day/:title
+permalink: blog/:year/:month/:day/:title
 
