@@ -2,5 +2,5 @@ theme: jekyll-theme-cayman
 title: Welcome to Kulvinder's Hompage!
 name: Kulvinder Singh
 markdown: kramdown
-permalink: about
+permalink: /about
 permalink: blog/:year/:month/:day/:title
