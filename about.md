@@ -18,6 +18,7 @@ I currently live in Noida, working as a Business Analyst at Moglix Pvt. Ltd.. I 
 I have worked on two major projects which are still progressing.
 * Designed solution for interactively reporting data related to different KPIs online, creating ease for business for taking decisions based on data rapidly.
 * Developed a platform where business can access daily updated frequently used reports, helping them to stay current with all the trends at different levels.
+
 So yeah, I am having my fair share of startup experience, and the usual get sh*t done attitude that comes with it.
 
 Apart from this, I also spend time on taking part in **_Kaggle competitions_** 
