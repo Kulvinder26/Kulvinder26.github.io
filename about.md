@@ -14,11 +14,10 @@ Hi, I'm Kulvinder.
 
 I hail from Uttar Pradesh, India. Though, I have spent a couple of the past few years in Punjab, India where I completed a Bachelor of  Technology degree from Lovely Professional University, India's largest private university.
 
-I currently live in Noida, working as a Data Analyst/ Backend Developer at Moglix Pvt. Ltd. and I use software development and data analysis to solve our bussiness's analytics problems, and filling the gap between decision makers and the data*Drive*.
-I have worked on two major projects which are still progressing as  per the need of bussiness.
-First is self serve data extraction system for interactively accessing data related to different KPIs online, creating
-ease for business for taking decisions based on data rapidly.
-Second is an online platform where business can access daily updated frequently used reports.
+I currently live in Noida, working as a Business Analyst at Moglix Pvt. Ltd.. I use software development and data analysis to solve our business's analytics problems, and filling the gap between decision makers and the data.
+I have worked on two major projects which are still progressing.
+* Designed solution for interactively reporting data related to different KPIs online, creating ease for business for taking decisions based on data rapidly.
+* Developed a platform where business can access daily updated frequently used reports, helping them to stay current with all the trends at different levels.
 So yeah, I am having my fair share of startup experience, and the usual get sh*t done attitude that comes with it.
 
 Apart from this, I also spend time on taking part in 
