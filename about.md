@@ -20,13 +20,9 @@ I have worked on two major projects which are still progressing.
 * Developed a platform where business can access daily updated frequently used reports, helping them to stay current with all the trends at different levels.
 So yeah, I am having my fair share of startup experience, and the usual get sh*t done attitude that comes with it.
 
-Apart from this, I also spend time on taking part in 
-#### Kaggle competitions 
+Apart from this, I also spend time on taking part in **_Kaggle competitions_** 
 and building my knowledge about building better predictive models and understanding the data better.
-I have been in
-##### TOP 5%  
-of 
-##### Advanced Regression with House Prices Kaggle Competition .
+I have been in **TOP 5%** of **Advanced Regression with House Prices Kaggle Competition**.
 
 
 
