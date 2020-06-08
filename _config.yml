@@ -5,4 +5,6 @@ markdown: kramdown
 
 permalink: blog/:year/:month/:day/:title
 
+
+url: "https://Kulvinder26.github.io" # the base hostname & protocol for your site
 baseurl: /Kulvinder26.github.io
