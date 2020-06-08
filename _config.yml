@@ -5,3 +5,4 @@ markdown: kramdown
 
 permalink: blog/:year/:month/:day/:title
 
+baseurl: /Kulvinder26.github.io
