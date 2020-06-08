@@ -1,5 +1,5 @@
 
-## **Intro to Data Science with Ames Housing Dataset**
+## **Intro to Data Science**
 
 In this blog post, we will take a bird eye view of various steps involved in a data science project, we'll get from Exploraratory Data Analysis to Feature Engineering  and Handling of Outliers to Model Evaluation, so sit tight this is gonna be an exciting read !!
 
