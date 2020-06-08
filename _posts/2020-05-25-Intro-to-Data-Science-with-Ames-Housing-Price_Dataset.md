@@ -1061,9 +1061,7 @@ df.describe()
 ```python
 sns.pairplot(df);
 ```
-
-![output_23_0.png](attachment:output_23_0.png)
-
+![plot](img/output_23_0.png)
 
 
 # Questions we will answer:
@@ -1091,7 +1089,7 @@ sns.jointplot(data=df,x=x,y=y, kind='reg');
 ```
 
 
-![output_26_0.png](attachment:output_26_0.png)
+![plot](img/output_26_0.png)
 
 
 ### No, Corruption and Happiness are not strongly correlated
@@ -1106,7 +1104,7 @@ sns.lmplot(data=df,x=x,y=y);
 ```
 
 
-![output_29_0.png](attachment:output_29_0.png)
+![png](img/output_29_0.png)
 
 
 
@@ -1117,7 +1115,7 @@ sns.lmplot(data=df,x=x,y=y);
 ```
 
 
-![output_30_0.png](attachment:output_30_0.png)
+![png](img/output_30_0.png)
 
 
 ### As visible in above graphs, it is clear that Economy of a country has stronger correlation with Happiness than Freedom.
