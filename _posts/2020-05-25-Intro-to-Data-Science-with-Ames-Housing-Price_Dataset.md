@@ -1061,7 +1061,7 @@ df.describe()
 ```python
 sns.pairplot(df);
 ```
-![png](output_23_0.png)
+![plot](./output_23_0.png)
 
 
 # Questions we will answer:
@@ -1089,7 +1089,7 @@ sns.jointplot(data=df,x=x,y=y, kind='reg');
 ```
 
 
-![png](output_26_0.png)
+![plot](./output_26_0.png)
 
 
 ### No, Corruption and Happiness are not strongly correlated
