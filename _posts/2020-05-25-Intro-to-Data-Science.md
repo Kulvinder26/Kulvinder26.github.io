@@ -4,19 +4,23 @@
 In this blog post, we will take a bird eye view of various steps involved in a data science project, we'll get from Exploraratory Data Analysis to Feature Engineering  and Handling of Outliers to Model Evaluation, so sit tight this is gonna be an exciting read !!
 
 **so, What is Data Science  ?**
+
 In a nutshell Data Science has mostly to do with analysis of data through modelling and conducting experiments for doing inference or prediction.
 Still data science is different than statistics, in some sense, due to its ability to work on qualitative data (e.g. images and text) as well.
-After the advent of Information age, while digital data is omnipresent now, data science seems to have the capability to solve problems which were not possible earlier.  
+After the advent of Information age, while digital data is omnipresent now, data science seems to have the capability to solve problems which were not possible earlier. 
+
 > “Data science has become a fourth approach to scientific discovery, in addition to experimentation, modeling, and computation,” said **Provost Martha Pollack**
 
 [50 years of Data Science](https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf)
 
 **Data**
+
 The Data contains scores of countries based on parameters like, Gross Development Product or GDP, Freedom, Happiness, Corruption and Life Expectancy.
 Using these parameters a rating has been created for every country, namely Happiness Score this rating defines how much the conditions differ for  people living in different countries.
 Data has been collected for 4 years, each corresponding to year from 2015 to 2018, new parameters have been added to recent year's data
 
  **Problem**
+ 
  * Does Corruption affects Happinesss?
 
 * What is happiness score in case of poor countries (Low GDP) ?
@@ -1089,7 +1093,7 @@ sns.jointplot(data=df,x=x,y=y, kind='reg');
 ```
 
 
-![plot](/_posts/output_26_0.png)
+![plot](/img/output_26_0.png)
 
 
 ### No, Corruption and Happiness are not strongly correlated
@@ -1104,7 +1108,7 @@ sns.lmplot(data=df,x=x,y=y);
 ```
 
 
-![png](/_posts/output_29_0.png)
+![png](/img/output_29_0.png)
 
 
 
@@ -1115,7 +1119,7 @@ sns.lmplot(data=df,x=x,y=y);
 ```
 
 
-![png](/_posts/output_30_0.png)
+![png](/img/output_30_0.png)
 
 
 ### As visible in above graphs, it is clear that Economy of a country has stronger correlation with Happiness than Freedom.
