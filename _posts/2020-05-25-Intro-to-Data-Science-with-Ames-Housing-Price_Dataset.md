@@ -1061,7 +1061,7 @@ df.describe()
 ```python
 sns.pairplot(df);
 ```
-
+![png](output_23_0.png)
 
 
 # Questions we will answer:
