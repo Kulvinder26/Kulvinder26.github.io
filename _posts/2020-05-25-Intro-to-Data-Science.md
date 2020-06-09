@@ -10,10 +10,11 @@ In a nutshell Data Science has to do with analysis of data through modelling and
 
 **Inference** is a class of problems where we try to find relationships between features using statistical tools and use modelling for understanding the dependence of features on one another.
 
-**Prediction**, on the other hand is a class of problems where we want to build the most accurate model posible using the data in hand.
+**Prediction**, on the other hand is a class of problems where we want to build the most accurate model possible using the data in hand.
 
 Based on the type of problem we are trying to solve, we need to put in place different strategies and use different tools.
-Still data science is different than statistics, in some sense, due to its ability to work on qualitative data (e.g. images and text) as well.
+
+Data Science uses  alot of statisticals tools, still it is different than statistics, in some sense, due to its ability to work on qualitative data (e.g. images and text) as well.
 After the advent of Information age, while digital data is omnipresent now, data science seems to have the capability to solve problems which were not possible earlier. 
 
 > “Data science has become a fourth approach to scientific discovery, in addition to experimentation, modeling, and computation,” said **Provost Martha Pollack**
