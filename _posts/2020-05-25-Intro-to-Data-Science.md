@@ -99,7 +99,7 @@ df_2018.columns,df_2018.shape
 
 
 
-## Data Cleaning
+## **Data Cleaning**
 
 As we can see there is some inconsistency in columns between individual daaframes, we need to ensure that same features are used while concatenating them.
 
