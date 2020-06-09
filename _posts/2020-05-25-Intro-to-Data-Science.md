@@ -3,7 +3,7 @@
 
 In this blog post, we will take a bird eye view of various steps involved in a data science project, we'll get from Exploraratory Data Analysis to training a Machine Learning model, if you're starting with data science, you'll find this post really helpful !!
 
-**so, What is Data Science  ?**
+## **so, What is Data Science  ?**
 
 In a nutshell Data Science has to do with analysis of data through modelling and conducting experiments. Two main problems, for which we use Data Science are inference and prediction.
 
@@ -27,13 +27,16 @@ Data is collected for 4 years, each corresponding to year from 2015 to 2018, new
 
  **Problem**
  
- * Does Corruption affects Happinesss ?
+* Does Corruption affects Happinesss ?
 
 * What is happiness score in case of poor countries (Low GDP) ?
 
 * What makes a Country more happy, Economy (GDP) or Freedom ?
 
 * What relates most to Happiness ?
+
+**Lets write some Code now !!**
+You can download the jupyter notebook [here](https://github.com/Kulvinder26/Kulvinder26.github.io/blob/master/notebooks/Blog.ipynb).
 
 ```python
 #Importing libraries
@@ -740,181 +743,6 @@ df_2017.rename(columns={'Economy  GDP per Capita ':'Economy (GDP per Capita)',
 ```
 
 
-```python
-df_2018.head()
-```
-
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>Happiness Rank</th>
-      <th>Country</th>
-      <th>Happiness Score</th>
-      <th>Economy (GDP per Capita)</th>
-      <th>Family</th>
-      <th>Health (Life Expectancy)</th>
-      <th>Freedom</th>
-      <th>Generosity</th>
-      <th>Trust (Government Corruption)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>1</td>
-      <td>Finland</td>
-      <td>7.632</td>
-      <td>1.305</td>
-      <td>1.592</td>
-      <td>0.874</td>
-      <td>0.681</td>
-      <td>0.202</td>
-      <td>0.393</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>2</td>
-      <td>Norway</td>
-      <td>7.594</td>
-      <td>1.456</td>
-      <td>1.582</td>
-      <td>0.861</td>
-      <td>0.686</td>
-      <td>0.286</td>
-      <td>0.340</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>3</td>
-      <td>Denmark</td>
-      <td>7.555</td>
-      <td>1.351</td>
-      <td>1.590</td>
-      <td>0.868</td>
-      <td>0.683</td>
-      <td>0.284</td>
-      <td>0.408</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>4</td>
-      <td>Iceland</td>
-      <td>7.495</td>
-      <td>1.343</td>
-      <td>1.644</td>
-      <td>0.914</td>
-      <td>0.677</td>
-      <td>0.353</td>
-      <td>0.138</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>5</td>
-      <td>Switzerland</td>
-      <td>7.487</td>
-      <td>1.420</td>
-      <td>1.549</td>
-      <td>0.927</td>
-      <td>0.660</td>
-      <td>0.256</td>
-      <td>0.357</td>
-    </tr>
-    <tr>
-      <th>...</th>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
-    </tr>
-    <tr>
-      <th>151</th>
-      <td>152</td>
-      <td>Yemen</td>
-      <td>3.355</td>
-      <td>0.442</td>
-      <td>1.073</td>
-      <td>0.343</td>
-      <td>0.244</td>
-      <td>0.083</td>
-      <td>0.064</td>
-    </tr>
-    <tr>
-      <th>152</th>
-      <td>153</td>
-      <td>Tanzania</td>
-      <td>3.303</td>
-      <td>0.455</td>
-      <td>0.991</td>
-      <td>0.381</td>
-      <td>0.481</td>
-      <td>0.270</td>
-      <td>0.097</td>
-    </tr>
-    <tr>
-      <th>153</th>
-      <td>154</td>
-      <td>South Sudan</td>
-      <td>3.254</td>
-      <td>0.337</td>
-      <td>0.608</td>
-      <td>0.177</td>
-      <td>0.112</td>
-      <td>0.224</td>
-      <td>0.106</td>
-    </tr>
-    <tr>
-      <th>154</th>
-      <td>155</td>
-      <td>Central African Republic</td>
-      <td>3.083</td>
-      <td>0.024</td>
-      <td>0.000</td>
-      <td>0.010</td>
-      <td>0.305</td>
-      <td>0.218</td>
-      <td>0.038</td>
-    </tr>
-    <tr>
-      <th>155</th>
-      <td>156</td>
-      <td>Burundi</td>
-      <td>2.905</td>
-      <td>0.091</td>
-      <td>0.627</td>
-      <td>0.145</td>
-      <td>0.065</td>
-      <td>0.149</td>
-      <td>0.076</td>
-    </tr>
-  </tbody>
-</table>
-<p>156 rows × 9 columns</p>
-</div>
-
-
 
 
 ```python
@@ -932,6 +760,8 @@ df_2018.rename(columns={'Country or region':'Country',
 ```python
 df = pd.concat([df_2015,df_2016,df_2017,df_2018],axis=0).reset_index(drop=True)
 ```
+**We have successfully cleaned our data, now lets do some Data Science !!** 
+
 
 ## **Exploratory Data Analysis**
 
@@ -1076,17 +906,16 @@ sns.pairplot(df);
 
 ## **Questions we will answer:**
 
-* Does <u>Corruption  affects Happinesss?
+* Does <u>Corruption  affects Happinesss ?
 
 
-* What <u>makes a Country more happy?
- * Economy (GDP) or Freedom
+* What <u>makes a Country more happy, Economy (GDP) or Freedom ?
 
 
 * What is <u> happiness score in case of poor countries (Low GDP) ?
 
 
-* What <u>relates most to Happiness?
+* What <u>relates most to Happiness ?
 
 
 ## **Does Corruption affects Happinesss ?**
@@ -1285,3 +1114,4 @@ for i in range(len(X.columns)):
 
 
 ### Freedom has the highest coefficient in our linear refression model, hence it relates most with Happiness score.
+
