@@ -1,11 +1,14 @@
 
 ## **Intro to Data Science**
 
-In this blog post, we will take a bird eye view of various steps involved in a data science project, we'll get from Exploraratory Data Analysis to Feature Engineering  and Handling of Outliers to Model Evaluation, so sit tight this is gonna be an exciting read !!
+In this blog post, we will take a bird eye view of various steps involved in a data science project, we'll get from Exploraratory Data Analysis to training a Machine Learning model, if you're starting with data science, you'll find this post really helpful !!
 
 **so, What is Data Science  ?**
 
-In a nutshell Data Science has mostly to do with analysis of data through modelling and conducting experiments for doing inference or prediction.
+In a nutshell Data Science has to do with analysis of data through modelling and conducting experiments. Two main problems, for which we use Data Science are inference and prediction.
+**Inference** is a class of problems where we try to find relationships between features using statistical tools and use modelling for understanding the dependence of features on one another.
+**Prediction**, on the other hand is a class of problems where we want to build the most accurate model posible using the data in hand.
+Based on the type of problem we are trying to solve, we need to put in place different strategies and use different tools.
 Still data science is different than statistics, in some sense, due to its ability to work on qualitative data (e.g. images and text) as well.
 After the advent of Information age, while digital data is omnipresent now, data science seems to have the capability to solve problems which were not possible earlier. 
 
@@ -16,8 +19,8 @@ After the advent of Information age, while digital data is omnipresent now, data
 **Data**
 
 The Data contains scores of countries based on parameters like, Gross Development Product or GDP, Freedom, Happiness, Corruption and Life Expectancy.
-Using these parameters a rating has been created for every country, namely Happiness Score this rating defines how much the conditions differ for  people living in different countries.
-Data has been collected for 4 years, each corresponding to year from 2015 to 2018, new parameters have been added to recent year's data
+Using these parameters a rating  created for every country, Happiness Score this rating defines how much the conditions differ for  people living in different countries.
+Data is collected for 4 years, each corresponding to year from 2015 to 2018, new parameters have been added to recent year's data
 
  **Problem**
  
@@ -930,6 +933,7 @@ df = pd.concat([df_2015,df_2016,df_2017,df_2018],axis=0).reset_index(drop=True)
 
 ## Exploratory Data Analysis
 
+Here we will take a quick look into data, by examining distributions followed by the features and checking for missing values. 
 
 ```python
 df.describe()
