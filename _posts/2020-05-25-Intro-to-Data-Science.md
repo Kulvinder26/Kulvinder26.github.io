@@ -1,5 +1,5 @@
 
-# **Intro to Data Science**
+# **Introduction to Data Science**
 
 In this blog post, we will take a bird eye view of various steps involved in a data science project, we'll get from Exploraratory Data Analysis to training a Machine Learning model, if you're starting with data science, you'll find this post really helpful !!
 
@@ -1124,4 +1124,4 @@ for i in range(len(X.columns)):
 
 ### Freedom has the highest coefficient in our linear refression model, hence it relates most with Happiness score.
 
-Thanks for keeping up, now you have seen basic structure of a **Data Science project**, feel free to download the notebook and apply your own techniques, Ciao!!
+Thanks for keeping up, now you have been introduced to the basic structure of a **Data Science project**, feel free to download the notebook and apply your own techniques, Ciao!!
