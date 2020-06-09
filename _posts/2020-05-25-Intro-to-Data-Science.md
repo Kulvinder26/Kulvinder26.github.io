@@ -36,7 +36,9 @@ Data is collected for 4 years, each corresponding to year from 2015 to 2018, new
 * What relates most to Happiness ?
 
 **Lets write some Code now !!**
+
 You can download the jupyter notebook [here](https://github.com/Kulvinder26/Kulvinder26.github.io/blob/master/notebooks/Blog.ipynb).
+
 
 ```python
 #Importing libraries
