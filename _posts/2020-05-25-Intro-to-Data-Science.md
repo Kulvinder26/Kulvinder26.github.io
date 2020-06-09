@@ -3,6 +3,7 @@
 
 In this blog post, we will take a bird eye view of various steps involved in a data science project, we'll get from Exploraratory Data Analysis to training a Machine Learning model, if you're starting with data science, you'll find this post really helpful !!
 
+
 ## **so, What is Data Science  ?**
 
 In a nutshell Data Science has to do with analysis of data through modelling and conducting experiments. Two main problems, for which we use Data Science are inference and prediction.
@@ -19,11 +20,13 @@ After the advent of Information age, while digital data is omnipresent now, data
 
 [50 years of Data Science](https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf)
 
+
 **Data**
 
 The Data contains scores of countries based on parameters like, Gross Development Product or GDP, Freedom, Happiness, Corruption and Life Expectancy.
 Using these parameters a rating  created for every country, Happiness Score this rating defines how much the conditions differ for  people living in different countries.
 Data is collected for 4 years, each corresponding to year from 2015 to 2018, new parameters have been added to recent year's data
+
 
  **Problem**
  
@@ -35,9 +38,11 @@ Data is collected for 4 years, each corresponding to year from 2015 to 2018, new
 
 * What relates most to Happiness ?
 
+
 **Lets write some Code now !!**
 
 You can download the jupyter notebook [here](https://github.com/Kulvinder26/Kulvinder26.github.io/blob/master/notebooks/Blog.ipynb).
+
 
 
 ```python
@@ -935,6 +940,7 @@ sns.jointplot(data=df,x=x,y=y, kind='reg');
 
 ### No, Corruption and Happiness are not strongly correlated
 
+
 ## **So, What makes a Country more happy ?**
 
 
@@ -1003,6 +1009,7 @@ df_rich['Happiness Score'].mean()
 
 ### The mean happiness score for poor countries is significantly less than rich countries.
 * Hence, it can be said that countries with less gdp often tend to have less happiness score.
+
 
 ## **What relates most to Happiness ?**
 
@@ -1117,3 +1124,4 @@ for i in range(len(X.columns)):
 
 ### Freedom has the highest coefficient in our linear refression model, hence it relates most with Happiness score.
 
+Thanks for keeping up, now you have seen basic structure of a **Data Science project**, feel free to download the notebook and apply your own techniques, Ciao!!
