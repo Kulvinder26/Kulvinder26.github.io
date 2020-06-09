@@ -1,13 +1,16 @@
 
-## **Intro to Data Science**
+# **Intro to Data Science**
 
 In this blog post, we will take a bird eye view of various steps involved in a data science project, we'll get from Exploraratory Data Analysis to training a Machine Learning model, if you're starting with data science, you'll find this post really helpful !!
 
 **so, What is Data Science  ?**
 
 In a nutshell Data Science has to do with analysis of data through modelling and conducting experiments. Two main problems, for which we use Data Science are inference and prediction.
+
 **Inference** is a class of problems where we try to find relationships between features using statistical tools and use modelling for understanding the dependence of features on one another.
+
 **Prediction**, on the other hand is a class of problems where we want to build the most accurate model posible using the data in hand.
+
 Based on the type of problem we are trying to solve, we need to put in place different strategies and use different tools.
 Still data science is different than statistics, in some sense, due to its ability to work on qualitative data (e.g. images and text) as well.
 After the advent of Information age, while digital data is omnipresent now, data science seems to have the capability to solve problems which were not possible earlier. 
@@ -24,14 +27,13 @@ Data is collected for 4 years, each corresponding to year from 2015 to 2018, new
 
  **Problem**
  
- * Does Corruption affects Happinesss?
+ * Does Corruption affects Happinesss ?
 
 * What is happiness score in case of poor countries (Low GDP) ?
 
-* What makes a Country more happy?
- * Economy (GDP) or Freedom
+* What makes a Country more happy, Economy (GDP) or Freedom ?
 
-* What relates most to Happiness?
+* What relates most to Happiness ?
 
 ```python
 #Importing libraries
@@ -739,7 +741,7 @@ df_2017.rename(columns={'Economy  GDP per Capita ':'Economy (GDP per Capita)',
 
 
 ```python
-df_2018
+df_2018.head()
 ```
 
 
@@ -931,7 +933,7 @@ df_2018.rename(columns={'Country or region':'Country',
 df = pd.concat([df_2015,df_2016,df_2017,df_2018],axis=0).reset_index(drop=True)
 ```
 
-## Exploratory Data Analysis
+## **Exploratory Data Analysis**
 
 Here we will take a quick look into data, by examining distributions followed by the features and checking for missing values. 
 
@@ -1072,7 +1074,7 @@ sns.pairplot(df);
 ![plot](/img/output_23_0.png)
 
 
-# Questions we will answer:
+## **Questions we will answer:**
 
 * Does <u>Corruption  affects Happinesss?
 
@@ -1087,7 +1089,7 @@ sns.pairplot(df);
 * What <u>relates most to Happiness?
 
 
-## Does Corruption affects Happinesss?
+## **Does Corruption affects Happinesss ?**
 
 
 ```python
@@ -1102,7 +1104,7 @@ sns.jointplot(data=df,x=x,y=y, kind='reg');
 
 ### No, Corruption and Happiness are not strongly correlated
 
-## So, What makes a Country more happy ?
+## **So, What makes a Country more happy ?**
 
 
 ```python
@@ -1132,7 +1134,7 @@ sns.lmplot(data=df,x=x,y=y);
 * Freedom still has some weak correlation with Happiness
 
 
-## What is happiness score in case of poor countries (Low GDP) ?
+## **What is happiness score in case of poor countries (Low GDP) ?**
 
 We'll consider the countries having gdp score less than mean (~0.9) as poor.
 
@@ -1171,7 +1173,7 @@ df_rich['Happiness Score'].mean()
 ### The mean happiness score for poor countries is significantly less than rich countries.
 * Hence, it can be said that countries with less gdp often tend to have less happiness score.
 
-## What relates most to Happiness?
+## **What relates most to Happiness ?**
 
 
 ```python
@@ -1198,7 +1200,7 @@ X.isnull().sum()
 
 
 
-We have missing value in one of our columns, we will impute it with mean.
+We have **missing value** in one of our columns, we will impute it with mean.
 
 
 ```python
