@@ -1101,7 +1101,7 @@ r2_score(y_test, y_pred)
     0.7289187955037795
 
 
-
+We have successfully created a model that fits our data well, now we will inspect which feature had the most affect on predictions according to our model. 
 
 ```python
 cols = X.columns.tolist()
@@ -1109,6 +1109,7 @@ cols = X.columns.tolist()
 weight = reg.coef_.tolist()[0]
 ```
 
+We have extracted the weights and name of features, lets print them to find importance of individual feature in the model.
 
 ```python
 for i in range(len(X.columns)):
@@ -1123,6 +1124,6 @@ for i in range(len(X.columns)):
     Generosity  :  0.4447904262072287
 
 
-### Freedom has the highest coefficient in our linear refression model, hence it relates most with Happiness score.
+### Freedom has the highest coefficient in our linear regression model, hence it relates most with the Happiness score.
 
 Thanks for keeping up, now you have been introduced to the basic structure of a **Data Science project**, feel free to download the notebook and apply your own techniques, Ciao!!
