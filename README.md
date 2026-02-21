@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+# Kulvinder Singh
 
-You can use the [editor on GitHub](https://github.com/Kulvinder26/Kulvindersingh.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Senior Backend Engineer with 6+ years of experience building scalable, production-grade
+backend systems using Python, Django/DRF, and cloud-native architectures.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I focus on designing reliable APIs, microservices, and asynchronous systems that
+power real-world products at scale.
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 🧠 What I Do
 
-```markdown
-Syntax highlighted code block
+- Build and maintain **backend systems** using Python, Django, DRF, and Flask
+- Design **REST APIs** with clear contracts and backward compatibility
+- Develop **microservices** and async workflows (Celery, queues, background jobs)
+- Work with **databases and caching** (MySQL, Redis, MongoDB)
+- Deploy and operate systems on **GCP and AWS**
+- Set up **CI/CD pipelines**, containerized deployments, and production workflows
 
-# Header 1
-## Header 2
-### Header 3
+---
 
-- Bulleted
-- List
+## 🏗️ Engineering Focus
 
-1. Numbered
-2. List
+- System Design & API Design
+- Distributed systems fundamentals
+- Asynchronous processing & failure handling
+- Performance optimization & scalability
+- Clean, testable, maintainable code
+- Production reliability and long-term system quality
 
-**Bold** and _Italic_ and `Code` text
+---
 
-[Link](url) and ![Image](src)
-```
+## 🌱 Currently Learning
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Distributed systems & reliability engineering (SRE fundamentals)
+- Observability: metrics, logging, tracing
+- Event-driven architectures (Kafka / Pub-Sub concepts)
+- LLM-powered backend workflows and integrations
 
-### Jekyll Themes
+---
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kulvinder26/Kulvindersingh.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 📌 Experience Snapshot
 
-### Support or Contact
+- **Senior Software Engineer – Backend**, PasarPolis  
+  Building insurance backend platforms, async workflows, and scalable APIs
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- **Software Engineer**, Moglix  
+  Backend services, data pipelines, caching, and CI/CD systems
+
+---
+
+## 📫 Get in Touch
+
+- LinkedIn: https://www.linkedin.com/in/kulvinder-singh
+- Email: kulvindersingh97@gmail.com
+- GitHub: https://github.com/Kulvinder26
+
+---
+
+> I care deeply about system reliability, availability, and technical quality.
+> Always open to discussions on backend architecture and engineering trade-offs.
