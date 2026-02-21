@@ -3,8 +3,6 @@ theme: jekyll-theme-minimal
 title: Kulvinder Singh
 description: Senior Backend Engineer | Python, Django, Distributed Systems
 
-author: Kulvinder Singh
-
 markdown: kramdown
 
 permalink: /blog/:year/:month/:day/:title/
@@ -13,4 +11,3 @@ url: "https://kulvinder26.github.io"
 baseurl: ""
 
 show_downloads: false
-google_analytics: ""
