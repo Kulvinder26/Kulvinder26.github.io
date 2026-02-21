@@ -1,10 +1,16 @@
-theme: jekyll-theme-cayman
-title: Welcome to Kulvinder's Hompage!
-name: Kulvinder Singh
+theme: jekyll-theme-minimal
+
+title: Kulvinder Singh
+description: Senior Backend Engineer | Python, Django, Distributed Systems
+
+author: Kulvinder Singh
+
 markdown: kramdown
 
-permalink: blog/:year/:month/:day/:title
+permalink: /blog/:year/:month/:day/:title/
 
+url: "https://kulvinder26.github.io"
+baseurl: ""
 
-url: "https://Kulvinder26.github.io" # the base hostname & protocol for your site
-baseurl: /Kulvinder26.github.io
+show_downloads: false
+google_analytics: ""
