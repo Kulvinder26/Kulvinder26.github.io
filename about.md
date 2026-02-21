@@ -1,79 +1,93 @@
 ---
 layout: default
 title: About
-description: What I am and what I do.
+description: Senior Backend Engineer — experience, background, and interests.
 ---
 
-<p class="message">
-  Feel free to check our other parts of the website, too! I'm currently working on adding more content, in the form of additional projects, a blog, and a home page revamp. So there's more to look forward to. :)
-</p>
+### About Me
 
-### Me
+Hi, I’m **Kulvinder Singh**, a Senior Backend Engineer based in India.
 
-Hi, I'm Kulvinder.
+I have 6+ years of experience building and operating **production-grade backend systems**
+using **Python, Django/DRF, Flask**, and cloud-native technologies. My work focuses on
+designing scalable APIs, asynchronous systems, and backend platforms that support
+real-world business workflows with high reliability.
 
-I hail from Uttar Pradesh, India. Though, I have spent a couple of the past few years in Punjab, India where I completed a Bachelor of  Technology degree from Lovely Professional University, India's largest private university.
+I completed my Bachelor of Technology in Computer Science from **Lovely Professional University**
+and have since worked in fast-paced product environments where ownership, system quality,
+and long-term maintainability matter.
 
-I currently live in Noida, working as a Business Analyst at Moglix Pvt. Ltd.. I use software development and data analysis to solve our business's analytics problems, and filling the gap between decision makers and the data.
-I have worked on two major projects which are still progressing.
-* Designed solution for interactively reporting data related to different KPIs online, creating ease for business for taking decisions based on data rapidly.
-* Developed a platform where business can access daily updated frequently used reports, helping them to stay current with all the trends at different levels.
+---
 
-So yeah, I am having my fair share of startup experience, and the usual get sh*t done attitude that comes with it.
+### Professional Experience
 
-Apart from this, I also spend time on taking part in **_Kaggle competitions_** 
-and building my knowledge about building better predictive models and understanding the data better.
-I have been in **TOP 5%** of **Advanced Regression with House Prices Kaggle Competition**.
+I currently work as a **Senior Software Engineer (Backend)**, where I own backend systems
+end-to-end — from business logic and database design to API contracts, background processing,
+and deployments.
 
+My experience includes:
+- Designing and evolving **REST APIs** with backward compatibility
+- Building **microservices** and async workflows using queues and background jobs
+- Working with **databases and caching layers** (MySQL, Redis, MongoDB)
+- Improving system reliability, maintainability, and operational efficiency
+- Collaborating closely with product, frontend, and business teams
 
+Previously, I have worked on backend services, data pipelines, and CI/CD systems
+supporting large internal and business-facing platforms.
 
-I'm also <em>really</em> into music, creative writing, reading and travelling. 
+---
 
-<hr>
+### Technical Skills
 
-### What I know
+I have hands-on experience with:
 
-As a result of my perpetual curiosity, I have practical experience with a wide range of technologies including:
+**Backend & Systems**
+- Python, Django, DRF, Flask
+- REST APIs, microservices architecture
+- Asynchronous processing and background jobs
 
-* Python 
-* Scikit-Learn 
-* Pandas 
-* Numpy 
-* Keras 
-* Tensorflow 
-* NLTK 
-* SQL 
-* OpenCV 
-* Matplotlib 
-* Apache Spark
-* Apache Flume
-* Apache Hive
-* Apache Hadoop
+**Data & Storage**
+- MySQL, Redis, MongoDB
+- Data pipelines and reporting workflows
 
-for use with concepts such as:
+**Cloud & DevOps**
+- Google Cloud Platform (GCP)
+- AWS (working knowledge)
+- Docker, Kubernetes
+- CI/CD pipelines (GitLab CI, Jenkins)
 
-* Machine Learning
-* Data Science
-* NLP
-* Software Engineering
-* Big Data and more!
+**Engineering Practices**
+- System design & API design
+- Automated testing and code reviews
+- Performance optimization and scalability
 
-### Certificates I've completed:
+---
 
-To feed my hunger for learning, I take online courses for different Data Science topics and work independently on projects in my free time. Some of them include:
+### Learning & Interests
 
-* Machine Learning (taught by Andrew Ng) - by Stanford University - Coursera
-* Neural Networks and Deep Learning (taught by Andrew Ng) - by Deeplearning.ai - Coursera
-* Improving Deep Neural Networks:Hyperparameter tuning, Regularization
-and Optimization (taught by Andrew Ng) - by Deeplearning.ai - Coursera
-* Convolutional Neural Networks (taught by Andrew Ng) - by Deeplearning.ai - Coursera
-* Structuring Machine Learning Projects (taught by Andrew Ng) - by Deeplearning.ai - Coursera
-* Machine Learning Fundamentals - by Datacamp
+I actively deepen my understanding of:
+- Distributed systems and reliability engineering
+- Observability (metrics, logging, tracing)
+- Event-driven architectures
+- LLM-powered backend workflows (exploration phase)
 
-And that's about it! Feel free to connect on [LinkedIn](https://www.linkedin.com/in/kulvinder-singh-821261128) or get in touch if you want to discuss anything about Machine Learning or apart from it, I'm always happy to chat!
+Outside of work, I enjoy music, reading, writing, and traveling.
 
-You can find a contact form on the homepage, or send an email directly to <a href="mailto:kulvindersingh97@gmail.com">kulvindersingh97@gmail.com</a>.
+---
 
+### Publications & Learning
 
-Thanks for reading!
+- Paper titled **“Analysis of Various Computer Architectures”**, published in  
+  *International Journal of Innovative Technology and Exploring Engineering (IJITEE)*, 2019
+- Machine Learning Specialization — Andrew Ng (Coursera)
+- AI / Machine Learning Nanodegree — Udacity
 
+---
+
+### Get in Touch
+
+- LinkedIn: https://www.linkedin.com/in/kulvinder-singh
+- Email: <a href="mailto:kulvindersingh97@gmail.com">kulvindersingh97@gmail.com</a>
+
+I’m always open to discussions around backend engineering, system design,
+and production systems.
